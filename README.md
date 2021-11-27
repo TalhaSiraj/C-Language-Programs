@@ -1,3 +1,3 @@
 # C-Language-Programs
 
-This Repository Has My Work On C language That I Did For Practice.
+This repository has my work on C language.
